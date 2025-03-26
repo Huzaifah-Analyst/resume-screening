@@ -1,0 +1,5 @@
+outs:
+- md5: 65ac5ad0f25d6302e95d0a234379da06
+  size: 155235
+  hash: md5
+  path: tfidf.pkl

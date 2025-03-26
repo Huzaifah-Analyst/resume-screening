@@ -1,0 +1,5 @@
+outs:
+- md5: 6efd50dd7ffc214a2ee5c6a69797ef5f
+  size: 38964739
+  hash: md5
+  path: clf.pkl
