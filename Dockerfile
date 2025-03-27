@@ -15,7 +15,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code AND model/data files
 COPY app.py .
-COPY idf_vector.pkl ./  # Explicitly copy IDF file
+COPY tfidf.pkl ./  # Explicitly copy IDF file
 # If your IDF file is in a subdirectory:
 # COPY data/idf_vector.pkl ./data/
 
