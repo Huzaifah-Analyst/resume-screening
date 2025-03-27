@@ -1,0 +1,57 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+EDUCATION
+BS Computer Science
+Air University Aerospace and Aviation Campus Kamra
+GPA: 3.46
+Courses
+  Mobile Computing, Artificial Intelligence, Software Engineering, Data Structures and Algorithms, Database Management 
+ 
+SKILLS
+
+
+
+
+
+ 
+ 
+WORK EXPERIENCE
+Android Developer Intern
+Systems Limited Software Solution
+06/2014 - 07/2014
+Achievements/Tasks
+  Built mobile apps using Kotlin and XML.
+  Integrated Firebase Authentication and Realtime Database.
+  Designed and implemented interactive UI/UX aligned with client needs.
+ 
+PERSONAL PROJECTS
+Trip Hive App (Major Project)
+  Multi-panel app for touring services (User, Tailor, Rider panels).
+  User Dashboard with navigation options: Orders, Real-time Chat , Riders, and Home.
+  Firebase Authentication and Firestore integration for real-time data.
+  State management with GetX
+AI Home Automation
+  Created a Flutter app to generate creative stories using prompts via a third-party API, with options to save stories in Firebase Firestore for easy access.
+
+
+
+CERTIFICATES
+
+ 
+App Development Internship
+Completed an internship at Systems Limited Software Solutions , where I gained hands-on experience in mobile app development, Firebase services, and UI/UX design.
